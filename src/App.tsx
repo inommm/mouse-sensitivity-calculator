@@ -49,13 +49,11 @@ function App() {
     <main>
       <Row>
         <Col lg="12">
-          <div className="d-flex aligns-items-center justify-content-center w-75 position-absolute top-50 start-50 translate-middle">
+          <div className="d-flex flex-column position-absolute top-50 start-50 translate-middle">
+            <div>
+              <h1 className="title">Mouse Sensitivity Calculator</h1>
+            </div>
             <Card className="calculator shadow rounded border-0">
-              <Card.Body>
-                <Card.Title>
-                  <h1>Mouse Sensitivity Calculator</h1>
-                </Card.Title>
-              </Card.Body>
               <Card.Body>
                 <Form>
                   <Form.Group className="mb-3">

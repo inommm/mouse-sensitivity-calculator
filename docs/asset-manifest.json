@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mouse-sensitivity-calculator/static/css/main.98deca18.css",
-    "main.js": "/mouse-sensitivity-calculator/static/js/main.762f0b31.js",
+    "main.css": "/mouse-sensitivity-calculator/static/css/main.e00978da.css",
+    "main.js": "/mouse-sensitivity-calculator/static/js/main.3cfe8e68.js",
     "static/js/787.9cb81ef5.chunk.js": "/mouse-sensitivity-calculator/static/js/787.9cb81ef5.chunk.js",
     "index.html": "/mouse-sensitivity-calculator/index.html",
-    "main.98deca18.css.map": "/mouse-sensitivity-calculator/static/css/main.98deca18.css.map",
-    "main.762f0b31.js.map": "/mouse-sensitivity-calculator/static/js/main.762f0b31.js.map",
+    "main.e00978da.css.map": "/mouse-sensitivity-calculator/static/css/main.e00978da.css.map",
+    "main.3cfe8e68.js.map": "/mouse-sensitivity-calculator/static/js/main.3cfe8e68.js.map",
     "787.9cb81ef5.chunk.js.map": "/mouse-sensitivity-calculator/static/js/787.9cb81ef5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98deca18.css",
-    "static/js/main.762f0b31.js"
+    "static/css/main.e00978da.css",
+    "static/js/main.3cfe8e68.js"
   ]
 }

@@ -1,0 +1,45 @@
+$default-bg:#eeeff3;
+$body-bg: $default-bg;
+$modal-content-bg: $default-bg;
+$input-bg: #ffffff;
+$primary: #673AB7;
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// $enable-shadows: false;
+
+$font-family-sans-serif: "Helvetica", "Lucida Grande", "segoe UI", "ヒラギノ丸ゴ ProN W4", "Hiragino Maru Gothic ProN", Meiryo, Arial, sans-serif;
+$font-family-base:       $font-family-sans-serif;
+
+$font-size-root: null;
+$font-size-base: 1rem;
+$font-size-sm:   $font-size-base * .875;
+$font-size-lg:   $font-size-base * 1.25;
+
+$h1-font-size:   $font-size-base * 1.5;
+$h2-font-size:   $font-size-base * 1.25;
+$h3-font-size:   $font-size-base * 1.0;
+$h4-font-size:   $font-size-base * 1.0;
+$h5-font-size:   $font-size-base * 1.0;
+$h6-font-size:   $font-size-base;
+
+// $pagination-disabled-color: #888888;
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+ // xxl: 1320px,
+ // xxxl: 1500px,
+ // xxxxl: 1680px,
+);
+
+$react-rater-link: #ccc; // color of star not rated
+$react-rater-hover: #FFA000; // color of star on hover
+$react-rater-active: #FFA000; // color of star rated
+
+$theme-colors:map-merge($theme-colors, (
+  "primary": $primary
+));
